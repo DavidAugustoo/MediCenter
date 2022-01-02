@@ -234,8 +234,17 @@ article {
     margin-right: 20px;
 }
 
+.box {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 aside .departaments_thumb {
     background-color: #39aae1;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: flex;
 }
+
