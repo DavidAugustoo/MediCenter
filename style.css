@@ -248,3 +248,76 @@ aside .departaments_thumb {
     display: flex;
 }
 
+footer {
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_menu {
+    display: flex;
+}
+.fm_1, .fm_2, .fm_3 {
+    flex: 1;
+    color: white;
+    padding: 20px;
+}
+
+.fm_1 {
+    background-color: #39aae1;
+    
+}
+.fm_2 {
+    background-color: #0079c7;
+
+}
+.fm_3 {
+    background-color: #2b4c99;
+}
+
+.flexColumn {
+    flex-direction: column;
+}
+
+.footer_area {
+    display: flex;      
+}
+
+.footer_area_item {
+    color: white;
+    flex: 1;
+}
+
+footer {
+    padding-bottom: 50px;
+}
+
+footer .widget_title_text {
+    color: white;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.footer_body_text {
+    color: gray;
+    font-size: 15px;
+    max-width: 250px;   
+}
+
+.footer_body_desc {
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+.footer_body_desc_item {
+    margin-top: 15px;
+    color: gray;
+    font-size: 15px;
+    max-width: 300px;
+}
+
+.footer_body_desc i {
+    margin-right: 10px;
+    font-size: 16px;
+}
