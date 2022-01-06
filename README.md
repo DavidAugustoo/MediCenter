@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sobre-">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobre-">Sobre</a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center"> 
 Landing page
@@ -11,7 +11,7 @@ Landing page
 
 </p>
 <p align="center">
-<img src="assets/images/video.mp4" align="center" />
+<img src="assets/images/screen.gif" align="center" />
 </p>
 
 
