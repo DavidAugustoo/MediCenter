@@ -11,7 +11,7 @@ Landing page
 
 </p>
 <p align="center">
-<img src="assets/images/screen.gif" align="center" />
+<img src="assets/images/screen.gif" align="center" style="border-radius: 10px" />
 </p>
 
 
