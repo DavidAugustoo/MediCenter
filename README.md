@@ -11,7 +11,7 @@ Landing page
 
 </p>
 <p align="center">
-<img src="assets/video.mp4" align="center" />
+<img src="assets/images/video.mp4" align="center" />
 </p>
 
 
