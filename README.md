@@ -36,7 +36,7 @@ Praticar conceitos importantes sobre HTML e CSS desenvolvendo uma landing page.
 
 ## 📫 Como contribuir
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com Cicle, siga estas etapas:
+Para contribuir, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
